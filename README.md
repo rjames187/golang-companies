@@ -16,11 +16,13 @@ List of well-known companies that use Golang (excluding SDKs and client librarie
 - Reddit
 - Square
 - Stripe
+- TikTok
 - Twilio
 - Twitch
 - Uber
 
 ## Golang for a specific usecase
+- Atlassian (BitBucket)
 - Capital One (Credit Offers API)
 - Expedia Group (Trivago)
 - Salesforce (Einstein Analytics, Heroku)
